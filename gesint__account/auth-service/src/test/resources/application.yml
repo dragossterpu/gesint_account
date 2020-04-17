@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: gesint_account
+      port: 0
